@@ -21,4 +21,4 @@ setInterval(() => {
   const imgLink = img[imgIndex];
   images.setAttribute("src", imgLink);
   imgIndex++;
-}, 1500);
+}, 1000);
